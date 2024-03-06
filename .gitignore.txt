@@ -1,0 +1,16 @@
+# .gitignore
+
+# Ignore the .idea directory
+.idea/
+
+# Ignore the venv (virtual environment) directory
+venv/
+
+# Ignore compiled Python files
+__pycache/
+
+# Ignore any local configuration or secrets files
+config.py
+secrets.py
+
+# Ignore any other files or directories you want to exclude
